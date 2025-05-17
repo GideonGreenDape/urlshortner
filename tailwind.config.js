@@ -6,14 +6,16 @@ export default {
   ],
   theme: {
     extend: {
-      fontFamily:{
-        'Bungee': ['Bungee','cursive'],
-        'montserrat':['Montserrat','sans-serif'],
+      fontFamily: {
+        'Bungee': ['Bungee', 'cursive'],
+        'montserrat': ['Montserrat', 'sans-serif'],
       },
-      colors:{
+      colors: {
         'linksbg': '#0065ff',
         'prince': '#096B68',
-        'joshua': '#002342'
+        'joshua': '#002342',
+        'darkwhite': '#DCDCDC',
+        'grey': '#D3D3D3'
       }
     },
   },
